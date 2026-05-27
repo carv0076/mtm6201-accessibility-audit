@@ -16,11 +16,6 @@ body {
   line-height: 1.7;
 }
 
-
-*:focus {
-  outline: none;
-}
-
 a {
   color: #4a2c1a;
 }
